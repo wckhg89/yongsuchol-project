@@ -12,7 +12,7 @@
 
 - Bean 관리 (DI / IOC)
 - 요청 처리 (핸들러 매핑 전략) (HandlerMapping / HandlerAdapter)
-- 뷰 렌더링 (ViewResolver)
 - 리소스 파일 처리 (ResourceHandler)
+- 뷰 렌더링 (ViewResolver)
 - REST 요청 처리 (HttpMessageConverter / RestTemplate / Jackson)
-- 인메모리 캐싱 (Ehcache)
+- 인메모리 캐싱 (Heap Memory / Ehcache)
