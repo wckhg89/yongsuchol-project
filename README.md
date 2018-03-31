@@ -9,3 +9,10 @@
 3. MVC 프레임워크
 
 4. 스프링 프레임워크 뜯어보기
+
+- Bean 관리 (DI / IOC)
+- 요청 처리 (핸들러 매핑 전략) (HandlerMapping / HandlerAdapter)
+- 뷰 렌더링 (ViewResolver)
+- 리소스 파일 처리 (ResourceHandler)
+- REST 요청 처리 (HttpMessageConverter / RestTemplate / Jackson)
+- 인메모리 캐싱 (Ehcache)
